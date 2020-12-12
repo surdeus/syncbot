@@ -1,4 +1,15 @@
-chat-bot
+syncbot
 ========
-chat-bot is a simple bot show that you can send messages in chat and get it from there.
+Messages synchronization bot.
+
+Supports
+--------
+ * VK,
+ * Telegram.
+
+Will support
+------------
+ * IRC,
+ * Viber,
+ * Other shit.
 
